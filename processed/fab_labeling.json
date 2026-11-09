@@ -1,0 +1,20 @@
+{
+  "label": {
+    "method": "tertile_keep_low_high_drop_mid",
+    "q_low": 0.3333333333333333,
+    "q_high": 0.6666666666666666,
+    "p33_Tm2": 68.0,
+    "p66_Tm2": 72.0,
+    "n_before": 483,
+    "n_after": 320,
+    "n_dropped_mid": 163,
+    "class_ratio": {
+      "low": 0.50625,
+      "high": 0.49375
+    }
+  },
+  "dedupe": {
+    "n_dropped": 0,
+    "log": []
+  }
+}

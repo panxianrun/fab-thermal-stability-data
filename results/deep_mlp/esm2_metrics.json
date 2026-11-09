@@ -1,0 +1,14 @@
+{
+  "val": {
+    "accuracy": 0.5,
+    "balanced_accuracy": 0.5,
+    "f1_macro": 0.3333333333333333,
+    "roc_auc": 0.7451171875
+  },
+  "test": {
+    "accuracy": 0.484375,
+    "balanced_accuracy": 0.5,
+    "f1_macro": 0.3263157894736842,
+    "roc_auc": 0.6774193548387097
+  }
+}
